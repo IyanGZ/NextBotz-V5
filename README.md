@@ -1,136 +1,74 @@
-
-## CATATAN
-Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu Brother!!
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<br/>
 <p align="center">
-    <img src="https://i.ibb.co/jbHnwDr/20221218-011857.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+  <a href="https://github.com/IyanGz/Mona-Md-V2">
+    <img src="https://telegra.ph/file/06e6f6a0ac97e95fe49c5.jpg" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Mona-Md-V2</h3>
+
+  <p align="center">
+    This Script Free No For Sale!
+    <br/>
+    <br/>
+    <a href="https://github.com/IyanGz/Mona-Md-V2"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/IyanGz/Mona-Md-V2">View Demo</a>
+    .
+    <a href="https://github.com/IyanGz/Mona-Md-V2/issues">Report Bug</a>
+    .
+    <a href="https://github.com/IyanGz/Mona-Md-V2/issues">Request Feature</a>
+  </p>
 </p>
 
-## PENTING
+![Downloads](https://img.shields.io/github/downloads/IyanGz/Mona-Md-V2/total) ![Contributors](https://img.shields.io/github/contributors/IyanGz/Mona-Md-V2?color=dark-green) ![Forks](https://img.shields.io/github/forks/IyanGz/Mona-Md-V2?style=social) ![Stargazers](https://img.shields.io/github/stars/IyanGz/Mona-Md-V2?style=social) ![Issues](https://img.shields.io/github/issues/IyanGz/Mona-Md-V2) ![License](https://img.shields.io/github/license/IyanGz/Mona-Md-V2) 
 
-> **Warning**: Script Ini Tidak Support Qr Untuk Saat Ini, Jadi Kalian Bisa Menggunakan Replit Untuk Mengambil Session Atau
-Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Sesi Bisa Pakai main.js.bak yg sudah saya sediakan
+## Built With
 
-<h1 align="center">NexBotz - MD</h1>
-<p align="center">
-  <a href="https://github.com/Lucife-Putra"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Amelia+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+PutraModz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
-</p>
 
-<p align="center">
- <a href="#"><img title="Amelia Cantik" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Lucife-Putra"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
 
----------
+* []()
 
-## ```Connect With Me 📞``` 
+## Getting Started
 
-## ```Whatsapp``` <a href="https://wa.me/6282214729677"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282214729677) 
----------
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-### a little about this bot
-- ✔️ | **Simple** 
-- ✔️ | **Button Template** 
-- ✔️ | **Multi Device** 
-- ✔️ | **Button Document(Experiment)** 
----------
-### Some of the features include
-- ✔️ | Downloader 
-- ✔️ | Internet 
-- ✔️ | Game Rpg 
-- ✔️ | Nsfw 
-- ✔️ | Sticker 
-- ✔️ | Game 
-- ✔️ | Kerang Ajaib 
-- ✔️ | Quotes
-- ✔️ | Anime 
-- ✔️ | Premium 
-- ✔️ | Tools 
-- ✔️ | Exec 
-- ✔️ | React 
-- ✔️ | Menfess Balas
----------
+### Prerequisites
 
-## ```For User Panel, Buy Panel In This Number```
-[![WHATSAPP](https://img.shields.io/badge/Seller%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282214729677) 
----------
+How To Run?
 
-## ```USER RAILWAY```
+### Installation
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/ImYanXiao/Elaina-MultiDevice)
+Type This Command On Your Terminal:
 
-## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://repl.it/github/ImYanXiao/Elaina-MultiDevice)
+```$ ls```
+```$ cd```
+```$ cd Mona-Md-V2```
+```$ npm i```
+```$ node .```
 
----------
+Scan And Use!
 
-## ```Nama Session```
-[<NexBotz.data.json>]
+## Roadmap
 
-## `--self`
-* Activate self mode (Ignores other)
+See the [open issues](https://github.com/IyanGz/Mona-Md-V2/issues) for a list of proposed features (and known issues).
 
-## `--pconly`
-* If that chat not from private bot, bot will ignore
+### Creating A Pull Request
 
-## `--gconly`
-* If that chat not from group, bot will ignore
 
-## `--swonly`
-* If that chat not from status, bot will ignore
 
-## `--prefix <prefixes>`
-* `prefixes` are seperated by each character
-Set prefix
+## License
 
-## `--server`
-* Used for [heroku](https://heroku.com/) or scan through website
+Distributed under the MIT License. See [LICENSE](https://github.com/IyanGz/Mona-Md-V2/blob/main/LICENSE.md) for more information.
 
-## `--restrict`
-* Enables restricted plugins (which can lead your number to be **banned** if used too often)
-* Group Administration `add, kick`
+## Authors
 
-## `--img`
-* Enable image inspector through terminal
+* **Xyann** - *The Recoder* - [Xyann](https://github.com/IyanGz/) - *GtauDahhh*
+* **PutraModz** - *Recoder* - [PutraModz](https://github.com/Lucife-Putra) - *GtauDahhh*
+* **BochilGaming** - *Recoder* - [BochilGaming](https://github.com/BochilGaming) - *GtauDahhh*
+* **Nurutomo** - *Author* - [Nurutomo](https://github.com/Nurutomo) - *GtauDahhh*
 
-## `--autoread`
-* If enabled, all incoming messages will be marked as read
+## Acknowledgements
 
-## `--nyimak`
-* No bot, just print received messages and add users to database
-
-## `--test`
-* **Development** Testing Mode
-
----------
-
-### 📮 S&K
-1. Not For Sale
-2. Don't forget give star this repo
-3. Follow Github
-4. Don't use this repository wrong!
-5. If you have problem chat me in owner number
-
----------
-
-### ❗ Note : Untuk apikey kamu bisa beli ke website itu sendiri :D
-
----------
-
-## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/Lucife-Putra)
-* [`My parents`](https://github.com/Lucife-Putra)
-* [`All Friends`](https://github.com/Lucife-Putra)
-* [`All Contributors`](https://github.com/Lucife-Putra)
-* [`All Creator Bot`](https://github.com/Lucife-Putra)
-* [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
-* [`Nurutomo`](https://github.com/nurutomi)
-* [`BochilGaming`](https://github.com/bochilgaming)
-* [`KannaChann`](https://github.com/kannachann) 
-* [`The.Sad.Boy01`](https://github.com/Kangsad01) 
-* [`Papah-Chan`](https://github.com/FahriAdison) 
-
-## ```Recode By ✏️```
-[![PutraModz](https://telegra.ph/file/03e268e2e4f5f359cdc55.jpg?size=20)](https://github.com/Lucife-Putra)
+* [Xyann](https://github.com/IyanGz)
